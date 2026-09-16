@@ -1,5 +1,7 @@
 # Ex. No: 9 - Packet Tracer: Subnet an IPv4 Network
-# Date: ___________
+# Date: 25/08/26
+# Name : KATHIRAVAN B
+# REG NO: 212223060117
 ________________________________________ <br>
 # Objective
 Design, configure, and verify an IPv4 subnetting scheme in Cisco Packet Tracer.<br>
@@ -93,9 +95,18 @@ ________________________________________<br>
 •	Save: copy running-config startup-config<br>
 ________________________________________<br>
 # Output (Attach Screenshots)
+<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/e94f4db2-66f1-4ec4-bb59-f34c47829fc2" />
+
 •	show ip interface brief on CustomerRouter<br>
+<img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/f5226053-2d80-4d58-b4d3-6bdee5f6e5ca" />
+
 •	show ip route<br>
+<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/b2dd3a95-bfbd-4a57-8f75-036d4821dc86" />
+
 •	Successful pings: PC-A → PC-B, PC-A → ISP Server<br>
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/a60188e3-dc73-40cc-a4cb-45d3a14864fe" />
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/57ef176c-0939-415d-8fa3-b6692765aff3" />
+
 ________________________________________<br>
 # Result
 The IPv4 subnetting scheme was successfully designed and implemented. Router, switches, and PCs were configured with correct addressing. Connectivity within LANs, across subnets, and to ISP devices was verified using ping and show commands.<br>
